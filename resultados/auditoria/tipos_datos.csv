@@ -1,0 +1,13 @@
+columna,tipo
+show_id,str
+type,str
+title,str
+director,str
+cast,str
+country,str
+date_added,str
+release_year,int64
+rating,str
+duration,str
+listed_in,str
+description,str

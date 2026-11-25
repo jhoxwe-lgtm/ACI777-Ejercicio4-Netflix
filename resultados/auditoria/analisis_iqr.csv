@@ -1,0 +1,4 @@
+variable,limite_inferior,limite_superior,posibles_atipicos
+release_year,2004.0,2028.0,719
+num_genres,0.5,4.5,0
+duration_minutes,46.5,154.5,450

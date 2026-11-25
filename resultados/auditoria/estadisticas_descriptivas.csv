@@ -1,0 +1,4 @@
+variable,cantidad,media,mediana,minimo,maximo,Q1,Q3
+release_year,8807,2014.18,2017.0,1925,2021,2013.0,2019.0
+num_genres,8807,2.19,2.0,1,3,2.0,3.0
+duration_minutes,6131,99.56,98.0,3,312,87.0,114.0
