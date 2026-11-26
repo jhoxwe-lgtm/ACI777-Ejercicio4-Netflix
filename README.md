@@ -143,7 +143,8 @@ ACI777-Ejercicio4-Netflix/
 - Scikit-learn
 - Git y GitHub
 - GitHub Codespaces
-
+- ChatGPT
+  
 ## Instalación
 
 Clonar el repositorio:
