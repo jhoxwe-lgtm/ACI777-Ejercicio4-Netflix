@@ -1,0 +1,5 @@
+modelo,conjunto,accuracy,precision,recall,f1
+Regresion logistica,Entrenamiento,0.9513,0.9281,0.9103,0.9191
+Regresion logistica,Prueba,0.9563,0.9305,0.9252,0.9278
+Arbol de decision,Entrenamiento,0.9519,0.9299,0.9103,0.92
+Arbol de decision,Prueba,0.9557,0.9303,0.9234,0.9268
