@@ -11,7 +11,8 @@ SCRIPTS = [
     "preparacion_agrupamiento.py",
     "clasificacion.py",
     "kmeans.py",
-    "dbscan.py"
+    "dbscan.py",
+    "visualizaciones.py"
 ]
 
 print("=" * 65)
