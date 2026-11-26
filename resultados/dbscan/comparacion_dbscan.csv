@@ -1,0 +1,4 @@
+configuracion,eps,min_samples,cantidad_grupos,peliculas_agrupadas,cantidad_ruido,porcentaje_ruido,tamanos_grupos
+eps_0.3_min_5,0.3,5,6,5932,199,3.25,Ruido: 199 | Grupo 0: 1429 | Grupo 1: 2322 | Grupo 2: 2169 | Grupo 3: 5 | Grupo 4: 5 | Grupo 5: 2
+eps_0.4_min_10,0.4,10,3,5927,204,3.33,Ruido: 204 | Grupo 0: 1430 | Grupo 1: 2172 | Grupo 2: 2325
+eps_0.5_min_10,0.5,10,3,6006,125,2.04,Ruido: 125 | Grupo 0: 1456 | Grupo 1: 2359 | Grupo 2: 2191

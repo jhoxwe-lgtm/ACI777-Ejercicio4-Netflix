@@ -1,0 +1,532 @@
+show_id,title,release_year,duration_minutes,num_genres,configuracion
+s23,Avvai Shanmughi,1996,161,2,eps_0.3_min_5
+s74,King of Boys,2018,182,2,eps_0.3_min_5
+s135,Clear and Present Danger,1994,142,2,eps_0.3_min_5
+s167,Once Upon a Time in America,1984,229,2,eps_0.3_min_5
+s178,The Guns of Navarone,1961,156,2,eps_0.3_min_5
+s330,Catch Me If You Can,2002,142,1,eps_0.3_min_5
+s342,Magnolia,1999,189,2,eps_0.3_min_5
+s420,Chhota Bheem: Bheem vs Aliens,2010,69,2,eps_0.3_min_5
+s530,Return of the Prodigal Son,1976,124,2,eps_0.3_min_5
+s543,Ujala,1959,143,2,eps_0.3_min_5
+s606,The Long Riders,1980,100,1,eps_0.3_min_5
+s696,Besieged Bread,2015,12,2,eps_0.3_min_5
+s717,FTA,1972,104,1,eps_0.3_min_5
+s718,Headspace: Unwind Your Mind,2021,273,1,eps_0.3_min_5
+s807,Seven Souls in the Skull Castle: Season Moon Jogen,2017,204,3,eps_0.3_min_5
+s808,Seven Souls in the Skull Castle: Season Moon Kagen,2017,212,3,eps_0.3_min_5
+s819,The Mirror Has Two Faces,1996,127,3,eps_0.3_min_5
+s820,The Outlaw Josey Wales,1976,136,2,eps_0.3_min_5
+s1016,American Me,1992,126,1,eps_0.3_min_5
+s1020,Lagaan,2001,224,3,eps_0.3_min_5
+s1127,My Fair Lady,1964,173,2,eps_0.3_min_5
+s1248,Banyuki,2009,182,3,eps_0.3_min_5
+s1252,Dances with Wolves,1990,181,3,eps_0.3_min_5
+s1255,Rain Man,1988,134,2,eps_0.3_min_5
+s1256,Seven Souls in the Skull Castle 2011,2011,177,3,eps_0.3_min_5
+s1359,Shutter Island,2010,139,1,eps_0.3_min_5
+s1611,Angels & Demons,2009,139,1,eps_0.3_min_5
+s1622,Quigley Down Under,1990,120,1,eps_0.3_min_5
+s1625,The Da Vinci Code,2006,149,1,eps_0.3_min_5
+s1700,White Christmas,1954,120,3,eps_0.3_min_5
+s1720,We Are All For The Fatherland,1979,74,2,eps_0.3_min_5
+s2127,What's Your Raashee?,2009,203,3,eps_0.3_min_5
+s2369,Cairo Station,1958,73,3,eps_0.3_min_5
+s2370,Dark Waters,1956,104,3,eps_0.3_min_5
+s2374,Saladin,1963,194,3,eps_0.3_min_5
+s2376,The Blazing Sun,1954,116,3,eps_0.3_min_5
+s2377,The Land,1970,130,3,eps_0.3_min_5
+s2483,Bye Bye London,1981,177,3,eps_0.3_min_5
+s2484,Fifty Year Old Teenager,1996,204,2,eps_0.3_min_5
+s2485,Lock Your Girls In,1982,233,3,eps_0.3_min_5
+s2488,No Longer kids,1979,237,3,eps_0.3_min_5
+s2489,Raya and Sakina,1984,230,3,eps_0.3_min_5
+s2490,Sayed the Servant,1985,173,2,eps_0.3_min_5
+s2491,The Married Couples,1981,195,3,eps_0.3_min_5
+s2492,The School of Mischief,1973,253,3,eps_0.3_min_5
+s2493,The Witness Who Didn't See Anything,1976,157,2,eps_0.3_min_5
+s2544,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,2020,190,1,eps_0.3_min_5
+s2633,No Direction Home: Bob Dylan,2005,208,2,eps_0.3_min_5
+s2650,This Earth of Mankind,2019,180,2,eps_0.3_min_5
+s2714,Sol Levante,2020,5,3,eps_0.3_min_5
+s2716,Agneepath,1990,174,2,eps_0.3_min_5
+s2722,Duniya,1984,170,3,eps_0.3_min_5
+s2724,Friendship,1980,161,3,eps_0.3_min_5
+s2731,Kabhi Alvida Naa Kehna,2006,192,3,eps_0.3_min_5
+s2732,Kabhi Khushi Kabhie Gham,2001,209,2,eps_0.3_min_5
+s2733,Kal Ho Naa Ho,2003,187,3,eps_0.3_min_5
+s2735,Kuch Kuch Hota Hai,1998,185,3,eps_0.3_min_5
+s2739,Muqaddar ka Faisla,1987,172,3,eps_0.3_min_5
+s2844,Aurora,2010,186,2,eps_0.3_min_5
+s2958,Hum Aapke Hain Koun,1994,193,3,eps_0.3_min_5
+s3132,Dil Chahta Hai,2001,185,3,eps_0.3_min_5
+s3143,Lakshya,2004,185,3,eps_0.3_min_5
+s3228,The Irishman,2019,209,1,eps_0.3_min_5
+s3721,EVANGELION: DEATH (TRUE)²,1998,69,3,eps_0.3_min_5
+s3776,Cosmos Laundromat: First Cycle,2015,12,3,eps_0.3_min_5
+s3778,Silent,2014,3,2,eps_0.3_min_5
+s4093,Kevin James: Sweat the Small Stuff,2001,42,1,eps_0.3_min_5
+s4230,Bill Hicks: One Night Stand,1991,28,1,eps_0.3_min_5
+s4238,Sam Kinison: Breaking the Rules,1987,50,1,eps_0.3_min_5
+s4239,Sam Kinison: Family Entertainment Hour,1991,49,1,eps_0.3_min_5
+s4245,Tim Allen: Men Are Pigs,1990,30,1,eps_0.3_min_5
+s4246,Tim Allen: ReWires America,1991,30,1,eps_0.3_min_5
+s4254,Black Mirror: Bandersnatch,2018,312,3,eps_0.3_min_5
+s4294,Springsteen on Broadway,2018,153,1,eps_0.3_min_5
+s4546,Monty Python: Before the Flying Circus,2000,56,2,eps_0.3_min_5
+s4547,Monty Python: Live at Aspen,1998,58,2,eps_0.3_min_5
+s4548,Monty Python: Live at The Hollywood Bowl,1982,80,1,eps_0.3_min_5
+s4574,Jodhaa Akbar,2008,214,3,eps_0.3_min_5
+s4687,One Last Shot,1998,31,1,eps_0.3_min_5
+s5015,Swades,2004,185,2,eps_0.3_min_5
+s5080,Alibaba Aur 40 Chor,1980,147,3,eps_0.3_min_5
+s5081,Pyar Ke Do Pal,1986,153,3,eps_0.3_min_5
+s5131,Jaal,1986,162,2,eps_0.3_min_5
+s5221,Singapore,1960,158,3,eps_0.3_min_5
+s5291,Aakhri Adaalat,1988,148,2,eps_0.3_min_5
+s5296,Chadi Jawani Budhe Nu,1976,135,3,eps_0.3_min_5
+s5297,Ek Jaan Hain Hum,1983,151,3,eps_0.3_min_5
+s5301,Khoon Khoon,1973,132,2,eps_0.3_min_5
+s5304,Manoranjan,1974,162,3,eps_0.3_min_5
+s5310,Sohni Mahiwal,1984,160,3,eps_0.3_min_5
+s5392,Amrapali,1966,116,3,eps_0.3_min_5
+s5397,Lal Patthar,1971,153,3,eps_0.3_min_5
+s5401,Professor,1962,163,3,eps_0.3_min_5
+s5409,Yaar Gaddar,1994,148,2,eps_0.3_min_5
+s5462,Prince,1969,152,3,eps_0.3_min_5
+s5463,Qila,1998,161,2,eps_0.3_min_5
+s5546,Elaan,1971,143,3,eps_0.3_min_5
+s5613,Hitler - A Career,1977,150,2,eps_0.3_min_5
+s5705,Richard Pryor: Live in Concert,1979,79,1,eps_0.3_min_5
+s5954,Joseph: King of Dreams,2000,75,3,eps_0.3_min_5
+s6031,A Bridge Too Far,1977,176,3,eps_0.3_min_5
+s6032,A Clockwork Orange,1971,137,3,eps_0.3_min_5
+s6131,Amar Akbar Anthony,1977,172,3,eps_0.3_min_5
+s6152,An American Tail,1986,80,1,eps_0.3_min_5
+s6285,Benji's Very Own Christmas Story,1978,25,1,eps_0.3_min_5
+s6351,Bobby,1973,168,3,eps_0.3_min_5
+s6359,Bonnie and Clyde,1967,111,3,eps_0.3_min_5
+s6396,Butterfield 8,1960,108,3,eps_0.3_min_5
+s6428,Casino Royale,2006,145,1,eps_0.3_min_5
+s6432,Cat on a Hot Tin Roof,1958,108,2,eps_0.3_min_5
+s6449,Charlotte's Web,1973,94,2,eps_0.3_min_5
+s6474,Chitty Chitty Bang Bang,1968,146,3,eps_0.3_min_5
+s6497,Cleopatra Jones,1973,89,2,eps_0.3_min_5
+s6502,Cloud Atlas,2012,172,3,eps_0.3_min_5
+s6534,Cool Hand Luke,1967,127,2,eps_0.3_min_5
+s6549,Dad,1989,117,1,eps_0.3_min_5
+s6620,Doctor Zhivago,1965,200,3,eps_0.3_min_5
+s6666,Eddie Murphy: Delirious,1983,69,1,eps_0.3_min_5
+s6681,Elephants Dream 4 Hour,2006,196,2,eps_0.3_min_5
+s6702,Enter the Dragon,1973,103,2,eps_0.3_min_5
+s6747,Fiddler on the Roof,1971,181,3,eps_0.3_min_5
+s6749,Figaro Pho,2008,29,2,eps_0.3_min_5
+s6777,For Colored Girls,2010,134,1,eps_0.3_min_5
+s6782,For the Love of Benji,1977,84,1,eps_0.3_min_5
+s6785,Forbidden Planet,1956,98,3,eps_0.3_min_5
+s6827,Gangs of New York,2002,167,1,eps_0.3_min_5
+s6854,Gigi,1958,115,3,eps_0.3_min_5
+s6881,GoodFellas,1990,145,2,eps_0.3_min_5
+s6927,Harlem Globetrotters: The Team That Changed the World,2005,55,2,eps_0.3_min_5
+s6961,Hera Pheri,1976,156,3,eps_0.3_min_5
+s7078,Inglourious Basterds,2009,153,1,eps_0.3_min_5
+s7114,Jackie Brown,1997,154,2,eps_0.3_min_5
+s7131,Jimi Hendrix,1973,102,2,eps_0.3_min_5
+s7134,Jis Desh Men Ganga Behti Hai,1960,181,3,eps_0.3_min_5
+s7145,Judwaa,1997,133,3,eps_0.3_min_5
+s7161,Kaalia,1981,173,3,eps_0.3_min_5
+s7220,Know Your Enemy - Japan,1945,63,2,eps_0.3_min_5
+s7225,Koshish,1972,115,2,eps_0.3_min_5
+s7276,LeapFrog: Letter Factory,2003,37,1,eps_0.3_min_5
+s7295,Let There Be Light,1946,58,2,eps_0.3_min_5
+s7309,Lincoln,2012,150,1,eps_0.3_min_5
+s7333,Lolita,1962,153,3,eps_0.3_min_5
+s7388,Maine Pyar Kiya,1989,192,3,eps_0.3_min_5
+s7394,Mandi,1983,155,3,eps_0.3_min_5
+s7531,Mutiny on the Bounty,1962,185,3,eps_0.3_min_5
+s7558,Namak Halaal,1982,171,3,eps_0.3_min_5
+s7563,National Lampoon's Loaded Weapon 1,1993,82,3,eps_0.3_min_5
+s7576,Nazi Concentration Camps,1945,59,2,eps_0.3_min_5
+s7638,Ocean's Eleven,1960,127,3,eps_0.3_min_5
+s7660,Once Upon a Time in the West,1968,166,3,eps_0.3_min_5
+s7707,Pardes,1997,187,3,eps_0.3_min_5
+s7709,Paris Is Burning,1990,77,3,eps_0.3_min_5
+s7723,Pee-wee's Playhouse: Christmas Special,1988,48,1,eps_0.3_min_5
+s7753,Playing for Time,1980,149,1,eps_0.3_min_5
+s7791,Prelude to War,1942,52,2,eps_0.3_min_5
+s7825,Raja Hindustani,1996,177,3,eps_0.3_min_5
+s7828,Ram Teri Ganga Maili,1985,178,3,eps_0.3_min_5
+s7840,Rebel Without a Cause,1955,111,2,eps_0.3_min_5
+s7845,Red Dawn,1984,114,2,eps_0.3_min_5
+s7881,Rocky II,1979,119,2,eps_0.3_min_5
+s7895,Rosemary's Baby,1968,137,3,eps_0.3_min_5
+s7931,San Pietro,1945,32,2,eps_0.3_min_5
+s7933,Sangam,1964,228,3,eps_0.3_min_5
+s7945,Satte Pe Satta,1982,153,3,eps_0.3_min_5
+s7955,Scandal in Sorrento,1955,93,3,eps_0.3_min_5
+s7958,Schindler's List,1993,195,2,eps_0.3_min_5
+s8064,Sparkle,1976,98,2,eps_0.3_min_5
+s8087,Stealing History,2006,52,2,eps_0.3_min_5
+s8206,The Battle of Midway,1942,18,2,eps_0.3_min_5
+s8238,The Car,1977,96,2,eps_0.3_min_5
+s8250,The Cincinnati Kid,1965,103,2,eps_0.3_min_5
+s8261,The Cruise,1970,66,3,eps_0.3_min_5
+s8267,The Dark Crystal,1982,93,1,eps_0.3_min_5
+s8291,The Evil Dead,1981,85,3,eps_0.3_min_5
+s8328,The Gospel of Luke,2015,205,2,eps_0.3_min_5
+s8330,The Gospel of Matthew,2014,190,2,eps_0.3_min_5
+s8333,The Great Gambler,1979,161,3,eps_0.3_min_5
+s8342,The Help,2011,147,1,eps_0.3_min_5
+s8405,The Lord of the Rings: The Return of the King,2003,201,2,eps_0.3_min_5
+s8406,The Lord of the Rings: The Two Towers,2002,179,2,eps_0.3_min_5
+s8413,The Man Who Would Be Polka King,2009,68,2,eps_0.3_min_5
+s8420,"The Memphis Belle: A Story of a
+Flying Fortress",1944,40,2,eps_0.3_min_5
+s8437,The Negro Soldier,1944,40,2,eps_0.3_min_5
+s8450,The Pelican Brief,1993,141,2,eps_0.3_min_5
+s8507,The Sign of Venus,1955,97,3,eps_0.3_min_5
+s8515,The spiral,1978,84,3,eps_0.3_min_5
+s8528,The Texas Chainsaw Massacre,1974,83,3,eps_0.3_min_5
+s8588,Thunderbolt,1947,42,2,eps_0.3_min_5
+s8603,Tom and Jerry: The Magic Ring,2001,60,2,eps_0.3_min_5
+s8636,True Grit,1969,128,2,eps_0.3_min_5
+s8641,Tunisian Victory,1944,76,2,eps_0.3_min_5
+s8661,Undercover: How to Operate Behind Enemy Lines,1943,61,2,eps_0.3_min_5
+s8697,War Horse,2011,147,1,eps_0.3_min_5
+s8718,Westerplatte Resists,1967,93,3,eps_0.3_min_5
+s8736,Who's That Knocking at My Door?,1967,90,3,eps_0.3_min_5
+s8740,Why We Fight: The Battle of Russia,1943,82,1,eps_0.3_min_5
+s8764,WWII: Report from the Aleutians,1943,45,1,eps_0.3_min_5
+s8765,Wyatt Earp,1994,191,1,eps_0.3_min_5
+s8793,Young Tiger,1973,81,2,eps_0.3_min_5
+s23,Avvai Shanmughi,1996,161,2,eps_0.4_min_10
+s74,King of Boys,2018,182,2,eps_0.4_min_10
+s167,Once Upon a Time in America,1984,229,2,eps_0.4_min_10
+s176,The Blue Lagoon,1980,105,2,eps_0.4_min_10
+s178,The Guns of Navarone,1961,156,2,eps_0.4_min_10
+s330,Catch Me If You Can,2002,142,1,eps_0.4_min_10
+s342,Magnolia,1999,189,2,eps_0.4_min_10
+s530,Return of the Prodigal Son,1976,124,2,eps_0.4_min_10
+s543,Ujala,1959,143,2,eps_0.4_min_10
+s580,Midnight Run,1988,126,3,eps_0.4_min_10
+s606,The Long Riders,1980,100,1,eps_0.4_min_10
+s673,Mobile Suit Gundam: Char's Counterattack,1988,120,3,eps_0.4_min_10
+s695,Aziza,2019,13,3,eps_0.4_min_10
+s717,FTA,1972,104,1,eps_0.4_min_10
+s718,Headspace: Unwind Your Mind,2021,273,1,eps_0.4_min_10
+s807,Seven Souls in the Skull Castle: Season Moon Jogen,2017,204,3,eps_0.4_min_10
+s808,Seven Souls in the Skull Castle: Season Moon Kagen,2017,212,3,eps_0.4_min_10
+s815,The Four Seasons,1981,108,2,eps_0.4_min_10
+s820,The Outlaw Josey Wales,1976,136,2,eps_0.4_min_10
+s992,One Like It,2020,15,3,eps_0.4_min_10
+s1016,American Me,1992,126,1,eps_0.4_min_10
+s1020,Lagaan,2001,224,3,eps_0.4_min_10
+s1127,My Fair Lady,1964,173,2,eps_0.4_min_10
+s1248,Banyuki,2009,182,3,eps_0.4_min_10
+s1252,Dances with Wolves,1990,181,3,eps_0.4_min_10
+s1255,Rain Man,1988,134,2,eps_0.4_min_10
+s1359,Shutter Island,2010,139,1,eps_0.4_min_10
+s1611,Angels & Demons,2009,139,1,eps_0.4_min_10
+s1622,Quigley Down Under,1990,120,1,eps_0.4_min_10
+s1625,The Da Vinci Code,2006,149,1,eps_0.4_min_10
+s1700,White Christmas,1954,120,3,eps_0.4_min_10
+s1720,We Are All For The Fatherland,1979,74,2,eps_0.4_min_10
+s1931,Poacher,2018,28,3,eps_0.4_min_10
+s2127,What's Your Raashee?,2009,203,3,eps_0.4_min_10
+s2369,Cairo Station,1958,73,3,eps_0.4_min_10
+s2370,Dark Waters,1956,104,3,eps_0.4_min_10
+s2374,Saladin,1963,194,3,eps_0.4_min_10
+s2376,The Blazing Sun,1954,116,3,eps_0.4_min_10
+s2377,The Land,1970,130,3,eps_0.4_min_10
+s2483,Bye Bye London,1981,177,3,eps_0.4_min_10
+s2484,Fifty Year Old Teenager,1996,204,2,eps_0.4_min_10
+s2485,Lock Your Girls In,1982,233,3,eps_0.4_min_10
+s2488,No Longer kids,1979,237,3,eps_0.4_min_10
+s2489,Raya and Sakina,1984,230,3,eps_0.4_min_10
+s2490,Sayed the Servant,1985,173,2,eps_0.4_min_10
+s2491,The Married Couples,1981,195,3,eps_0.4_min_10
+s2492,The School of Mischief,1973,253,3,eps_0.4_min_10
+s2493,The Witness Who Didn't See Anything,1976,157,2,eps_0.4_min_10
+s2544,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,2020,190,1,eps_0.4_min_10
+s2633,No Direction Home: Bob Dylan,2005,208,2,eps_0.4_min_10
+s2650,This Earth of Mankind,2019,180,2,eps_0.4_min_10
+s2714,Sol Levante,2020,5,3,eps_0.4_min_10
+s2716,Agneepath,1990,174,2,eps_0.4_min_10
+s2722,Duniya,1984,170,3,eps_0.4_min_10
+s2724,Friendship,1980,161,3,eps_0.4_min_10
+s2731,Kabhi Alvida Naa Kehna,2006,192,3,eps_0.4_min_10
+s2732,Kabhi Khushi Kabhie Gham,2001,209,2,eps_0.4_min_10
+s2733,Kal Ho Naa Ho,2003,187,3,eps_0.4_min_10
+s2739,Muqaddar ka Faisla,1987,172,3,eps_0.4_min_10
+s2844,Aurora,2010,186,2,eps_0.4_min_10
+s2958,Hum Aapke Hain Koun,1994,193,3,eps_0.4_min_10
+s3228,The Irishman,2019,209,1,eps_0.4_min_10
+s3254,"Lorena, Light-Footed Woman",2019,28,3,eps_0.4_min_10
+s3367,Little Miss Sumo,2018,20,3,eps_0.4_min_10
+s3545,Spookley the Square Pumpkin,2004,47,1,eps_0.4_min_10
+s3710,ANIMA,2019,15,3,eps_0.4_min_10
+s3721,EVANGELION: DEATH (TRUE)²,1998,69,3,eps_0.4_min_10
+s3776,Cosmos Laundromat: First Cycle,2015,12,3,eps_0.4_min_10
+s3778,Silent,2014,3,2,eps_0.4_min_10
+s4093,Kevin James: Sweat the Small Stuff,2001,42,1,eps_0.4_min_10
+s4230,Bill Hicks: One Night Stand,1991,28,1,eps_0.4_min_10
+s4232,Bill Hicks: Relentless,1992,61,1,eps_0.4_min_10
+s4233,Bill Hicks: Revelations,1993,56,1,eps_0.4_min_10
+s4238,Sam Kinison: Breaking the Rules,1987,50,1,eps_0.4_min_10
+s4239,Sam Kinison: Family Entertainment Hour,1991,49,1,eps_0.4_min_10
+s4240,Sam Kinison: Live in Vegas,1991,71,1,eps_0.4_min_10
+s4245,Tim Allen: Men Are Pigs,1990,30,1,eps_0.4_min_10
+s4246,Tim Allen: ReWires America,1991,30,1,eps_0.4_min_10
+s4254,Black Mirror: Bandersnatch,2018,312,3,eps_0.4_min_10
+s4546,Monty Python: Before the Flying Circus,2000,56,2,eps_0.4_min_10
+s4547,Monty Python: Live at Aspen,1998,58,2,eps_0.4_min_10
+s4548,Monty Python: Live at The Hollywood Bowl,1982,80,1,eps_0.4_min_10
+s4555,Parrot Sketch Not Included: Twenty Years of Monty Python,1989,72,1,eps_0.4_min_10
+s4574,Jodhaa Akbar,2008,214,3,eps_0.4_min_10
+s4687,One Last Shot,1998,31,1,eps_0.4_min_10
+s5015,Swades,2004,185,2,eps_0.4_min_10
+s5020,Trailer Park Boys: Xmas Special,2004,46,1,eps_0.4_min_10
+s5057,Jerry Seinfeld: I'm Telling You for the Last Time,1998,69,1,eps_0.4_min_10
+s5081,Pyar Ke Do Pal,1986,153,3,eps_0.4_min_10
+s5131,Jaal,1986,162,2,eps_0.4_min_10
+s5134,Trolls Holiday Special,2017,27,3,eps_0.4_min_10
+s5221,Singapore,1960,158,3,eps_0.4_min_10
+s5291,Aakhri Adaalat,1988,148,2,eps_0.4_min_10
+s5297,Ek Jaan Hain Hum,1983,151,3,eps_0.4_min_10
+s5301,Khoon Khoon,1973,132,2,eps_0.4_min_10
+s5304,Manoranjan,1974,162,3,eps_0.4_min_10
+s5310,Sohni Mahiwal,1984,160,3,eps_0.4_min_10
+s5392,Amrapali,1966,116,3,eps_0.4_min_10
+s5397,Lal Patthar,1971,153,3,eps_0.4_min_10
+s5401,Professor,1962,163,3,eps_0.4_min_10
+s5409,Yaar Gaddar,1994,148,2,eps_0.4_min_10
+s5457,Michael Lost and Found,2017,19,3,eps_0.4_min_10
+s5462,Prince,1969,152,3,eps_0.4_min_10
+s5463,Qila,1998,161,2,eps_0.4_min_10
+s5546,Elaan,1971,143,3,eps_0.4_min_10
+s5550,Salaakhen,1975,134,3,eps_0.4_min_10
+s5613,Hitler - A Career,1977,150,2,eps_0.4_min_10
+s5705,Richard Pryor: Live in Concert,1979,79,1,eps_0.4_min_10
+s5822,Children of God,1994,63,1,eps_0.4_min_10
+s6031,A Bridge Too Far,1977,176,3,eps_0.4_min_10
+s6032,A Clockwork Orange,1971,137,3,eps_0.4_min_10
+s6131,Amar Akbar Anthony,1977,172,3,eps_0.4_min_10
+s6153,An American Tail: Fievel Goes West,1991,75,1,eps_0.4_min_10
+s6198,Auschwitz: Blueprints of Genocide,1994,49,1,eps_0.4_min_10
+s6249,Basic Instinct,1992,128,2,eps_0.4_min_10
+s6255,Bawarchi,1972,125,3,eps_0.4_min_10
+s6268,Bebe's Kids,1992,73,1,eps_0.4_min_10
+s6285,Benji's Very Own Christmas Story,1978,25,1,eps_0.4_min_10
+s6351,Bobby,1973,168,3,eps_0.4_min_10
+s6359,Bonnie and Clyde,1967,111,3,eps_0.4_min_10
+s6396,Butterfield 8,1960,108,3,eps_0.4_min_10
+s6428,Casino Royale,2006,145,1,eps_0.4_min_10
+s6432,Cat on a Hot Tin Roof,1958,108,2,eps_0.4_min_10
+s6449,Charlotte's Web,1973,94,2,eps_0.4_min_10
+s6474,Chitty Chitty Bang Bang,1968,146,3,eps_0.4_min_10
+s6497,Cleopatra Jones,1973,89,2,eps_0.4_min_10
+s6534,Cool Hand Luke,1967,127,2,eps_0.4_min_10
+s6549,Dad,1989,117,1,eps_0.4_min_10
+s6594,Denis Leary: No Cure For Cancer,1992,62,1,eps_0.4_min_10
+s6620,Doctor Zhivago,1965,200,3,eps_0.4_min_10
+s6666,Eddie Murphy: Delirious,1983,69,1,eps_0.4_min_10
+s6681,Elephants Dream 4 Hour,2006,196,2,eps_0.4_min_10
+s6702,Enter the Dragon,1973,103,2,eps_0.4_min_10
+s6747,Fiddler on the Roof,1971,181,3,eps_0.4_min_10
+s6749,Figaro Pho,2008,29,2,eps_0.4_min_10
+s6766,Five Elements Ninjas,1982,104,2,eps_0.4_min_10
+s6777,For Colored Girls,2010,134,1,eps_0.4_min_10
+s6782,For the Love of Benji,1977,84,1,eps_0.4_min_10
+s6785,Forbidden Planet,1956,98,3,eps_0.4_min_10
+s6827,Gangs of New York,2002,167,1,eps_0.4_min_10
+s6854,Gigi,1958,115,3,eps_0.4_min_10
+s6881,GoodFellas,1990,145,2,eps_0.4_min_10
+s6927,Harlem Globetrotters: The Team That Changed the World,2005,55,2,eps_0.4_min_10
+s6961,Hera Pheri,1976,156,3,eps_0.4_min_10
+s7078,Inglourious Basterds,2009,153,1,eps_0.4_min_10
+s7114,Jackie Brown,1997,154,2,eps_0.4_min_10
+s7131,Jimi Hendrix,1973,102,2,eps_0.4_min_10
+s7134,Jis Desh Men Ganga Behti Hai,1960,181,3,eps_0.4_min_10
+s7161,Kaalia,1981,173,3,eps_0.4_min_10
+s7199,Kill Bill: Vol. 2,2004,137,1,eps_0.4_min_10
+s7220,Know Your Enemy - Japan,1945,63,2,eps_0.4_min_10
+s7225,Koshish,1972,115,2,eps_0.4_min_10
+s7276,LeapFrog: Letter Factory,2003,37,1,eps_0.4_min_10
+s7295,Let There Be Light,1946,58,2,eps_0.4_min_10
+s7309,Lincoln,2012,150,1,eps_0.4_min_10
+s7333,Lolita,1962,153,3,eps_0.4_min_10
+s7388,Maine Pyar Kiya,1989,192,3,eps_0.4_min_10
+s7394,Mandi,1983,155,3,eps_0.4_min_10
+s7531,Mutiny on the Bounty,1962,185,3,eps_0.4_min_10
+s7558,Namak Halaal,1982,171,3,eps_0.4_min_10
+s7576,Nazi Concentration Camps,1945,59,2,eps_0.4_min_10
+s7638,Ocean's Eleven,1960,127,3,eps_0.4_min_10
+s7660,Once Upon a Time in the West,1968,166,3,eps_0.4_min_10
+s7707,Pardes,1997,187,3,eps_0.4_min_10
+s7723,Pee-wee's Playhouse: Christmas Special,1988,48,1,eps_0.4_min_10
+s7753,Playing for Time,1980,149,1,eps_0.4_min_10
+s7791,Prelude to War,1942,52,2,eps_0.4_min_10
+s7828,Ram Teri Ganga Maili,1985,178,3,eps_0.4_min_10
+s7840,Rebel Without a Cause,1955,111,2,eps_0.4_min_10
+s7881,Rocky II,1979,119,2,eps_0.4_min_10
+s7895,Rosemary's Baby,1968,137,3,eps_0.4_min_10
+s7931,San Pietro,1945,32,2,eps_0.4_min_10
+s7933,Sangam,1964,228,3,eps_0.4_min_10
+s7945,Satte Pe Satta,1982,153,3,eps_0.4_min_10
+s7955,Scandal in Sorrento,1955,93,3,eps_0.4_min_10
+s7958,Schindler's List,1993,195,2,eps_0.4_min_10
+s8064,Sparkle,1976,98,2,eps_0.4_min_10
+s8087,Stealing History,2006,52,2,eps_0.4_min_10
+s8206,The Battle of Midway,1942,18,2,eps_0.4_min_10
+s8250,The Cincinnati Kid,1965,103,2,eps_0.4_min_10
+s8261,The Cruise,1970,66,3,eps_0.4_min_10
+s8267,The Dark Crystal,1982,93,1,eps_0.4_min_10
+s8328,The Gospel of Luke,2015,205,2,eps_0.4_min_10
+s8330,The Gospel of Matthew,2014,190,2,eps_0.4_min_10
+s8333,The Great Gambler,1979,161,3,eps_0.4_min_10
+s8342,The Help,2011,147,1,eps_0.4_min_10
+s8405,The Lord of the Rings: The Return of the King,2003,201,2,eps_0.4_min_10
+s8406,The Lord of the Rings: The Two Towers,2002,179,2,eps_0.4_min_10
+s8420,"The Memphis Belle: A Story of a
+Flying Fortress",1944,40,2,eps_0.4_min_10
+s8437,The Negro Soldier,1944,40,2,eps_0.4_min_10
+s8507,The Sign of Venus,1955,97,3,eps_0.4_min_10
+s8528,The Texas Chainsaw Massacre,1974,83,3,eps_0.4_min_10
+s8588,Thunderbolt,1947,42,2,eps_0.4_min_10
+s8603,Tom and Jerry: The Magic Ring,2001,60,2,eps_0.4_min_10
+s8636,True Grit,1969,128,2,eps_0.4_min_10
+s8641,Tunisian Victory,1944,76,2,eps_0.4_min_10
+s8661,Undercover: How to Operate Behind Enemy Lines,1943,61,2,eps_0.4_min_10
+s8697,War Horse,2011,147,1,eps_0.4_min_10
+s8718,Westerplatte Resists,1967,93,3,eps_0.4_min_10
+s8736,Who's That Knocking at My Door?,1967,90,3,eps_0.4_min_10
+s8740,Why We Fight: The Battle of Russia,1943,82,1,eps_0.4_min_10
+s8764,WWII: Report from the Aleutians,1943,45,1,eps_0.4_min_10
+s8765,Wyatt Earp,1994,191,1,eps_0.4_min_10
+s8793,Young Tiger,1973,81,2,eps_0.4_min_10
+s23,Avvai Shanmughi,1996,161,2,eps_0.5_min_10
+s167,Once Upon a Time in America,1984,229,2,eps_0.5_min_10
+s178,The Guns of Navarone,1961,156,2,eps_0.5_min_10
+s342,Magnolia,1999,189,2,eps_0.5_min_10
+s530,Return of the Prodigal Son,1976,124,2,eps_0.5_min_10
+s543,Ujala,1959,143,2,eps_0.5_min_10
+s606,The Long Riders,1980,100,1,eps_0.5_min_10
+s717,FTA,1972,104,1,eps_0.5_min_10
+s718,Headspace: Unwind Your Mind,2021,273,1,eps_0.5_min_10
+s807,Seven Souls in the Skull Castle: Season Moon Jogen,2017,204,3,eps_0.5_min_10
+s808,Seven Souls in the Skull Castle: Season Moon Kagen,2017,212,3,eps_0.5_min_10
+s820,The Outlaw Josey Wales,1976,136,2,eps_0.5_min_10
+s1020,Lagaan,2001,224,3,eps_0.5_min_10
+s1127,My Fair Lady,1964,173,2,eps_0.5_min_10
+s1700,White Christmas,1954,120,3,eps_0.5_min_10
+s2127,What's Your Raashee?,2009,203,3,eps_0.5_min_10
+s2369,Cairo Station,1958,73,3,eps_0.5_min_10
+s2370,Dark Waters,1956,104,3,eps_0.5_min_10
+s2374,Saladin,1963,194,3,eps_0.5_min_10
+s2376,The Blazing Sun,1954,116,3,eps_0.5_min_10
+s2483,Bye Bye London,1981,177,3,eps_0.5_min_10
+s2484,Fifty Year Old Teenager,1996,204,2,eps_0.5_min_10
+s2485,Lock Your Girls In,1982,233,3,eps_0.5_min_10
+s2488,No Longer kids,1979,237,3,eps_0.5_min_10
+s2489,Raya and Sakina,1984,230,3,eps_0.5_min_10
+s2490,Sayed the Servant,1985,173,2,eps_0.5_min_10
+s2491,The Married Couples,1981,195,3,eps_0.5_min_10
+s2492,The School of Mischief,1973,253,3,eps_0.5_min_10
+s2493,The Witness Who Didn't See Anything,1976,157,2,eps_0.5_min_10
+s2544,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,2020,190,1,eps_0.5_min_10
+s2633,No Direction Home: Bob Dylan,2005,208,2,eps_0.5_min_10
+s2716,Agneepath,1990,174,2,eps_0.5_min_10
+s2722,Duniya,1984,170,3,eps_0.5_min_10
+s2731,Kabhi Alvida Naa Kehna,2006,192,3,eps_0.5_min_10
+s2732,Kabhi Khushi Kabhie Gham,2001,209,2,eps_0.5_min_10
+s2844,Aurora,2010,186,2,eps_0.5_min_10
+s2958,Hum Aapke Hain Koun,1994,193,3,eps_0.5_min_10
+s3228,The Irishman,2019,209,1,eps_0.5_min_10
+s3721,EVANGELION: DEATH (TRUE)²,1998,69,3,eps_0.5_min_10
+s4093,Kevin James: Sweat the Small Stuff,2001,42,1,eps_0.5_min_10
+s4230,Bill Hicks: One Night Stand,1991,28,1,eps_0.5_min_10
+s4233,Bill Hicks: Revelations,1993,56,1,eps_0.5_min_10
+s4238,Sam Kinison: Breaking the Rules,1987,50,1,eps_0.5_min_10
+s4239,Sam Kinison: Family Entertainment Hour,1991,49,1,eps_0.5_min_10
+s4245,Tim Allen: Men Are Pigs,1990,30,1,eps_0.5_min_10
+s4246,Tim Allen: ReWires America,1991,30,1,eps_0.5_min_10
+s4254,Black Mirror: Bandersnatch,2018,312,3,eps_0.5_min_10
+s4546,Monty Python: Before the Flying Circus,2000,56,2,eps_0.5_min_10
+s4547,Monty Python: Live at Aspen,1998,58,2,eps_0.5_min_10
+s4548,Monty Python: Live at The Hollywood Bowl,1982,80,1,eps_0.5_min_10
+s4574,Jodhaa Akbar,2008,214,3,eps_0.5_min_10
+s4687,One Last Shot,1998,31,1,eps_0.5_min_10
+s5015,Swades,2004,185,2,eps_0.5_min_10
+s5131,Jaal,1986,162,2,eps_0.5_min_10
+s5221,Singapore,1960,158,3,eps_0.5_min_10
+s5291,Aakhri Adaalat,1988,148,2,eps_0.5_min_10
+s5301,Khoon Khoon,1973,132,2,eps_0.5_min_10
+s5304,Manoranjan,1974,162,3,eps_0.5_min_10
+s5392,Amrapali,1966,116,3,eps_0.5_min_10
+s5397,Lal Patthar,1971,153,3,eps_0.5_min_10
+s5401,Professor,1962,163,3,eps_0.5_min_10
+s5462,Prince,1969,152,3,eps_0.5_min_10
+s5546,Elaan,1971,143,3,eps_0.5_min_10
+s5613,Hitler - A Career,1977,150,2,eps_0.5_min_10
+s5705,Richard Pryor: Live in Concert,1979,79,1,eps_0.5_min_10
+s6031,A Bridge Too Far,1977,176,3,eps_0.5_min_10
+s6198,Auschwitz: Blueprints of Genocide,1994,49,1,eps_0.5_min_10
+s6285,Benji's Very Own Christmas Story,1978,25,1,eps_0.5_min_10
+s6351,Bobby,1973,168,3,eps_0.5_min_10
+s6359,Bonnie and Clyde,1967,111,3,eps_0.5_min_10
+s6396,Butterfield 8,1960,108,3,eps_0.5_min_10
+s6432,Cat on a Hot Tin Roof,1958,108,2,eps_0.5_min_10
+s6474,Chitty Chitty Bang Bang,1968,146,3,eps_0.5_min_10
+s6534,Cool Hand Luke,1967,127,2,eps_0.5_min_10
+s6620,Doctor Zhivago,1965,200,3,eps_0.5_min_10
+s6666,Eddie Murphy: Delirious,1983,69,1,eps_0.5_min_10
+s6681,Elephants Dream 4 Hour,2006,196,2,eps_0.5_min_10
+s6747,Fiddler on the Roof,1971,181,3,eps_0.5_min_10
+s6782,For the Love of Benji,1977,84,1,eps_0.5_min_10
+s6785,Forbidden Planet,1956,98,3,eps_0.5_min_10
+s6827,Gangs of New York,2002,167,1,eps_0.5_min_10
+s6854,Gigi,1958,115,3,eps_0.5_min_10
+s6927,Harlem Globetrotters: The Team That Changed the World,2005,55,2,eps_0.5_min_10
+s7114,Jackie Brown,1997,154,2,eps_0.5_min_10
+s7134,Jis Desh Men Ganga Behti Hai,1960,181,3,eps_0.5_min_10
+s7220,Know Your Enemy - Japan,1945,63,2,eps_0.5_min_10
+s7225,Koshish,1972,115,2,eps_0.5_min_10
+s7295,Let There Be Light,1946,58,2,eps_0.5_min_10
+s7333,Lolita,1962,153,3,eps_0.5_min_10
+s7388,Maine Pyar Kiya,1989,192,3,eps_0.5_min_10
+s7531,Mutiny on the Bounty,1962,185,3,eps_0.5_min_10
+s7576,Nazi Concentration Camps,1945,59,2,eps_0.5_min_10
+s7638,Ocean's Eleven,1960,127,3,eps_0.5_min_10
+s7660,Once Upon a Time in the West,1968,166,3,eps_0.5_min_10
+s7723,Pee-wee's Playhouse: Christmas Special,1988,48,1,eps_0.5_min_10
+s7753,Playing for Time,1980,149,1,eps_0.5_min_10
+s7791,Prelude to War,1942,52,2,eps_0.5_min_10
+s7828,Ram Teri Ganga Maili,1985,178,3,eps_0.5_min_10
+s7840,Rebel Without a Cause,1955,111,2,eps_0.5_min_10
+s7881,Rocky II,1979,119,2,eps_0.5_min_10
+s7895,Rosemary's Baby,1968,137,3,eps_0.5_min_10
+s7931,San Pietro,1945,32,2,eps_0.5_min_10
+s7933,Sangam,1964,228,3,eps_0.5_min_10
+s7955,Scandal in Sorrento,1955,93,3,eps_0.5_min_10
+s7958,Schindler's List,1993,195,2,eps_0.5_min_10
+s8206,The Battle of Midway,1942,18,2,eps_0.5_min_10
+s8250,The Cincinnati Kid,1965,103,2,eps_0.5_min_10
+s8261,The Cruise,1970,66,3,eps_0.5_min_10
+s8328,The Gospel of Luke,2015,205,2,eps_0.5_min_10
+s8330,The Gospel of Matthew,2014,190,2,eps_0.5_min_10
+s8405,The Lord of the Rings: The Return of the King,2003,201,2,eps_0.5_min_10
+s8406,The Lord of the Rings: The Two Towers,2002,179,2,eps_0.5_min_10
+s8420,"The Memphis Belle: A Story of a
+Flying Fortress",1944,40,2,eps_0.5_min_10
+s8437,The Negro Soldier,1944,40,2,eps_0.5_min_10
+s8507,The Sign of Venus,1955,97,3,eps_0.5_min_10
+s8588,Thunderbolt,1947,42,2,eps_0.5_min_10
+s8603,Tom and Jerry: The Magic Ring,2001,60,2,eps_0.5_min_10
+s8636,True Grit,1969,128,2,eps_0.5_min_10
+s8641,Tunisian Victory,1944,76,2,eps_0.5_min_10
+s8661,Undercover: How to Operate Behind Enemy Lines,1943,61,2,eps_0.5_min_10
+s8736,Who's That Knocking at My Door?,1967,90,3,eps_0.5_min_10
+s8740,Why We Fight: The Battle of Russia,1943,82,1,eps_0.5_min_10
+s8764,WWII: Report from the Aleutians,1943,45,1,eps_0.5_min_10
+s8765,Wyatt Earp,1994,191,1,eps_0.5_min_10
+s8793,Young Tiger,1973,81,2,eps_0.5_min_10
